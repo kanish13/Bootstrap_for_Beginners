@@ -2,7 +2,7 @@ Bootstrap Installation:
 
 There are three ways to install bootstrap into your code:
 
-FIRST WAY:
+1st WAY:
 
 Include the following code into your head tag of html file:
 
@@ -10,7 +10,7 @@ Include the following code into your head tag of html file:
 
 [THIS LINK MAY VARY . SO USE : https://getbootstrap.com/docs/4.0/getting-started/introduction/ and copy the link under CSS]
 
-SECOND WAY:
+2nd WAY:
 
 Copy the starter template and paste:
 
@@ -39,7 +39,7 @@ Copy the starter template and paste:
 
 [LINK: https://getbootstrap.com/docs/4.0/getting-started/introduction/ ]
 
-THIRD WAY:
+3rd WAY:
 
 Download compiled css zip file 
 
